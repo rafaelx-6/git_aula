@@ -1,2 +1,6 @@
 modificado!
+<<<<<<< HEAD
 mesmo codigo 
+=======
+mesmo codigo
+>>>>>>> teste
